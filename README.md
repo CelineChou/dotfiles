@@ -5,7 +5,7 @@ Memorysaver's dotfiles
 ### Run Installation scrips
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/memorysaver/dotfiles/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/CelineChou/dotfiles/master/install.sh)"
 ```
 
 ### Sign in Dropbox and Restore Mackup
